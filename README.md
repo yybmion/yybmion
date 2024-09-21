@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=45&duration=3500&pause=3&repeat=false&width=1000&height=100&lines=MIoneHWA')](https://git.io/typing-svg)
 
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2024-07-07&size=200&theme=ray&rotate=0)](https://moon-svg.minung.dev)
-
 <div align="left">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyb400)](https://solved.ac/yyb400/)
