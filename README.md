@@ -19,16 +19,18 @@
 
 ---
 
-
-<div align="left">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyb400)](https://solved.ac/yyb400/)
+<div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yybmion&show_icons=true&show=reviews,discussions_started&theme=radical)
+### 📊 GitHub Stats & Algorithm Score
+  
+<p align="center" display="inline-block">
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=yybmion&show_icons=true&show=reviews,discussions_started&theme=radical"/>
+  <img width="450" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yyb400"/>
+</p>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yybmion&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yybmion&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="95%"/>
 
 </div>
 
