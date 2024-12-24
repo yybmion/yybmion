@@ -24,8 +24,8 @@
 ### 📊 GitHub Stats & Algorithm Score
   
 <p align="center" display="inline-block">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=yybmion&show_icons=true&show=reviews,discussions_started&theme=radical"/>
-  <img width="450" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yyb400"/>
+  <img width="440" src="https://github-readme-stats.vercel.app/api?username=yybmion&show_icons=true&show=reviews,discussions_started&theme=radical"/>
+  <img width="400" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yyb400"/>
 </p>
 
 ### 📈 Contribution Graph
