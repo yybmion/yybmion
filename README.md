@@ -3,7 +3,7 @@
 
 <div align="center">
   
-# 🌏 Hello World!
+# 🌏 Hello World
 
 ### Backend Developer | Problem Solver | Continuous Learner
 
