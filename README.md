@@ -13,7 +13,7 @@
 
 ### About Me 🌱
 
-▪️ Crafting scalable backend solutions  
+▪️ Crafting scalable backend solutions
 ▪️ Exploring new technologies  
 ▪️ Growing through challenges
 
