@@ -22,12 +22,19 @@
 <div align="center">
   
 ### 📊 GitHub Stats & Algorithm Score
-  
-<p align="center" display="inline-block">
-  <img width="440" src="https://github-readme-stats.vercel.app/api?username=yybmion&show_icons=true&show=reviews,discussions_started&theme=radical"/>
-  <img width="400" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yyb400"/>
-</p>
 
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px;">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <a href="https://solved.ac/eodnjs0147">
+      <img src="http://mazassumnida.wtf/api/generate_badge?boj=yyb400" alt="Solved.ac 프로필" style="height: 180px; width: auto; border-radius: 10px;">
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=yybmion&show_icons=true&show=reviews,discussions_started&theme=radical" alt="Big-Cir's GitHub stats" style="height: 180px; width: auto; border-radius: 10px;">
+  </div>
+</div>
+</div> <br>
+
+<div align="center">
+  
 ### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yybmion&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="95%"/>
