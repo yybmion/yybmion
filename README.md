@@ -25,7 +25,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px;">
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <a href="https://solved.ac/eodnjs0147">
+    <a href="https://solved.ac/yyb400">
       <img src="http://mazassumnida.wtf/api/generate_badge?boj=yyb400" alt="Solved.ac 프로필" style="height: 180px; width: auto; border-radius: 10px;">
     </a>
     <img src="https://github-readme-stats.vercel.app/api?username=yybmion&show_icons=true&show=reviews,discussions_started&theme=radical" alt="Big-Cir's GitHub stats" style="height: 180px; width: auto; border-radius: 10px;">
