@@ -21,8 +21,7 @@
 
 <div align="center">
   
-### 📊 GitHub Stats & Algorithm Score
-
+### 📊 Algorithm Score & GitHub Stats
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px;">
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <a href="https://solved.ac/yyb400">
