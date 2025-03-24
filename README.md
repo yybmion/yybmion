@@ -2,22 +2,6 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=45&duration=3500&pause=3&repeat=false&width=1000&height=100&lines=MIoneHWA')](https://git.io/typing-svg) -->
 
 <div align="center">
-  
-# 🌏 Hello World
-
-### Backend Developer | Problem Solver | Continuous Learner
-
-</div>
-
----
-
-### About Me 🌱
-
-▪️ Crafting scalable backend solutions   
-▪️ Exploring new technologies  
-▪️ Growing through challenges
-
----
 
 <div align="center">
   
