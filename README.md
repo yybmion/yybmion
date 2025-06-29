@@ -11,7 +11,7 @@
     <a href="https://solved.ac/yyb400">
       <img src="http://mazassumnida.wtf/api/generate_badge?boj=yyb400" alt="Solved.ac 프로필" style="height: 180px; width: auto; border-radius: 10px;">
     </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=yybmion&show_icons=true&show=reviews,discussions_started&theme=radical" alt="Big-Cir's GitHub stats" style="height: 180px; width: auto; border-radius: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=yybmion&show_icons=true&show=reviews,discussions_started&theme=radical" alt="yybmion's GitHub stats" style="height: 180px; width: auto; border-radius: 10px;">
   </div>
 </div>
 </div> <br>
